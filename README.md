@@ -3,6 +3,7 @@
 - 🔭 I’m currently looking for a fulfilling Data Analyst position.
 - 🌱 I’m currently learning Advanced Solidity.
 - 👯 I’m looking to collaborate on anything Web3 based.
+- ⚡ Fun fact: I am a massive MMA fan !
 - 📫 How to reach me: mattpretel@gmail.com
 
 <!--
