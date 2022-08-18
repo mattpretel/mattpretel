@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on find a fulfilling Data Analyst position.
+- 🌱 I’m currently learning Advanced Solidity.
+- 👯 I’m looking to collaborate on anything Web3 based.
+- 📫 How to reach me: mattpretel@gmail.com
+
 <!--
 **mattpretel/mattpretel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
