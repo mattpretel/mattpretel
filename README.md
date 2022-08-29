@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently looking for a remote or hybrid (phx) Data Analyst / Visualization position.
-- 🌱 I’m currently learning Advanced Solidity.
+- 🌱 I’m currently learning Advanced Solidity and working o a personal Web3 / NFT project.
 - 👯 I’m looking to collaborate on anything Web3 / NFT based.
 - ⚡ Fun fact: I am a massive MMA fan !
 - 📫 How to reach me: mattpretel@gmail.com
